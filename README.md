@@ -1,0 +1,1 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40samuellucas%2Finiciando-testes-mobile-android-ios-com-appium-b789147f90c1&psig=AOvVaw022ZxTviTPEaekjVwlznAl&ust=1724184855790000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiL06DvgYgDFQAAAAAdAAAAABAE" alt="k6">
